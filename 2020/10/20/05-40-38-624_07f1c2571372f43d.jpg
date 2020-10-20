@@ -1,0 +1,1240 @@
+<!doctype html>
+<html lang="en-US" prefix="og: http://ogp.me/ns#">
+<head>
+
+<meta content="text/html;charset=utf-8" http-equiv="content-type" />
+<meta content="width=device-width, initial-scale=1" name="viewport" />
+
+<link href="https://petri.com/wp-content/themes/monstro/favicon.ico" rel="shortcut icon" />
+
+<link rel="stylesheet" href="https://use.typekit.net/vsx4qeb.css">
+<meta name="theme-color" content="1">
+
+<link href="https://petri.com/wp-content/themes/monstro/assets/media/logo-ios.png" rel="apple-touch-icon" />
+<meta name="apple-mobile-web-app-status-bar-style" content="1">
+
+<meta content="no" name="msapplication-tap-highlight" />
+<meta name="msapplication-navbutton-color" content="1">
+<meta content="1" name="msapplication-TileColor" />
+<meta content="Petri" name="application-name" />
+<meta content="https://petri.com/wp-content/themes/monstro/assets/media/logo-windows-tiny.png" name="msapplication-square70x70logo" />
+<meta content="https://petri.com/wp-content/themes/monstro/assets/media/logo-windows-square.png" name="msapplication-square150x150logo" />
+<meta content="https://petri.com/wp-content/themes/monstro/assets/media/logo-windows-wide.png" name="msapplication-wide310x150logo" />
+<meta content="https://petri.com/wp-content/themes/monstro/assets/media/logo-windows-large.png" name="msapplication-square310x310logo" />
+<meta content="frequency=30;polling-uri=http://notifications.buildmypinnedsite.com/?feed=https://petri.com/feed/&id=1;polling-uri2=http://notifications.buildmypinnedsite.com/?feed=https://petri.com/feed&id=2;polling-uri3=http://notifications.buildmypinnedsite.com/?feed=https://petri.com/feed&id=3;polling-uri4=http://notifications.buildmypinnedsite.com/?feed=https://petri.com/feed&id=4;polling-uri5=http://notifications.buildmypinnedsite.com/?feed=https://petri.com/feed&id=5; cycle=1" name="msapplication-notification" />
+
+<link href="https://petri.com/wp-content/themes/monstro/manifest.json" rel="manifest" />
+
+
+
+
+<title>Petri - IT Knowledgebase</title>
+<script type='text/javascript'>function ctSetCookie___from_backend(c_name, value) {document.cookie = c_name + "=" + encodeURIComponent(value) + "; path=/; samesite=lax";}ctSetCookie___from_backend('ct_checkjs', '214393563', '0');</script>
+
+<meta name="description" content="IT Knowledgebase" />
+<link rel="canonical" href="https://petri.com/" />
+<link rel="next" href="https://petri.com/page/2" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Petri - IT Knowledgebase" />
+<meta property="og:description" content="IT Knowledgebase" />
+<meta property="og:url" content="https://petri.com/" />
+<meta property="og:site_name" content="Petri" />
+<meta property="og:image" content="https://petri.com/wp-content/uploads/sites/3/2020/10/shaneyoungnew.jpg" />
+<meta property="og:image:secure_url" content="https://petri.com/wp-content/uploads/sites/3/2020/10/shaneyoungnew.jpg" />
+<meta property="og:image:width" content="1026" />
+<meta property="og:image:height" content="639" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:description" content="IT Knowledgebase" />
+<meta name="twitter:title" content="Petri - IT Knowledgebase" />
+<script type='application/ld+json'>{"@context":"https:\/\/schema.org","@type":"WebSite","@id":"#website","url":"https:\/\/petri.com\/","name":"Petri","potentialAction":{"@type":"SearchAction","target":"https:\/\/petri.com\/?s={search_term_string}","query-input":"required name=search_term_string"}}</script>
+
+<link rel='dns-prefetch' href='//petri.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+
+<script type="text/javascript" data-cfasync="false">
+	var mi_version         = '7.10.5';
+	var mi_track_user      = true;
+	var mi_no_track_reason = '';
+	
+	var disableStr = 'ga-disable-UA-3414659-1';
+
+	/* Function to detect opted out users */
+	function __gaTrackerIsOptedOut() {
+		return document.cookie.indexOf(disableStr + '=true') > -1;
+	}
+
+	/* Disable tracking if the opt-out cookie exists. */
+	if ( __gaTrackerIsOptedOut() ) {
+		window[disableStr] = true;
+	}
+
+	/* Opt-out function */
+	function __gaTrackerOptout() {
+	  document.cookie = disableStr + '=true; expires=Thu, 31 Dec 2099 23:59:59 UTC; path=/';
+	  window[disableStr] = true;
+	}
+
+	if ( 'undefined' === typeof gaOptout ) {
+		function gaOptout() {
+			__gaTrackerOptout();
+		}
+	}
+	
+	if ( mi_track_user ) {
+		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+			m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		})(window,document,'script','//www.google-analytics.com/analytics.js','__gaTracker');
+
+		__gaTracker('create', 'UA-3414659-1', 'auto');
+		__gaTracker('set', 'forceSSL', true);
+		__gaTracker('require', 'displayfeatures');
+		__gaTracker('send','pageview');
+	} else {
+		console.log( "" );
+		(function() {
+			/* https://developers.google.com/analytics/devguides/collection/analyticsjs/ */
+			var noopfn = function() {
+				return null;
+			};
+			var noopnullfn = function() {
+				return null;
+			};
+			var Tracker = function() {
+				return null;
+			};
+			var p = Tracker.prototype;
+			p.get = noopfn;
+			p.set = noopfn;
+			p.send = noopfn;
+			var __gaTracker = function() {
+				var len = arguments.length;
+				if ( len === 0 ) {
+					return;
+				}
+				var f = arguments[len-1];
+				if ( typeof f !== 'object' || f === null || typeof f.hitCallback !== 'function' ) {
+					console.log( 'Not running function __gaTracker(' + arguments[0] + " ....) because you are not being tracked. " + mi_no_track_reason );
+					return;
+				}
+				try {
+					f.hitCallback();
+				} catch (ex) {
+
+				}
+			};
+			__gaTracker.create = function() {
+				return new Tracker();
+			};
+			__gaTracker.getByName = noopnullfn;
+			__gaTracker.getAll = function() {
+				return [];
+			};
+			__gaTracker.remove = noopfn;
+			window['__gaTracker'] = __gaTracker;
+					})();
+		}
+</script>
+
+<link rel='stylesheet' id='crayon-theme-1c-zapros-css' href='https://petri.com/wp-content/plugins/crayon-syntax-highlighter/themes/1c-zapros/1c-zapros.css' type='text/css' media='all' />
+<link rel='stylesheet' id='crayon-font-monaco-css' href='https://petri.com/wp-content/plugins/crayon-syntax-highlighter/fonts/monaco.css' type='text/css' media='all' />
+<link rel='stylesheet' id='monstro-google-fonts-css' href='https://fonts.googleapis.com/css?family=Open+Sans%3A300%2C300italic%2C400%2C400italic%2C600%2C600italic%2C700%2C700italic&#038;ver=5.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='monstro-styles-modern-css' href='https://petri.com/wp-content/themes/monstro/assets/styles/modern.34e88577.css' type='text/css' media='all' />
+<!--[if lte IE 9]>
+<link rel='stylesheet' id='monstro-styles-legacy-css'  href='https://petri.com/wp-content/themes/monstro/assets/styles/legacy.633d602f.css' type='text/css' media='all' />
+<![endif]-->
+<link rel='stylesheet' id='monstro-styles-print-css' href='https://petri.com/wp-content/themes/monstro/assets/styles/print.99342284.css' type='text/css' media='print' />
+<link rel='stylesheet' id='wp-block-library-css' href='https://petri.com/wp-includes/css/dist/block-library/style.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='fastgallery-main-style-css' href='https://petri.com/wp-content/plugins/fastgallery/css/style.css' type='text/css' media='all' />
+<link rel='stylesheet' id='photobox-css' href='https://petri.com/wp-content/plugins/fastgallery/css/photobox.css' type='text/css' media='all' />
+<link rel='stylesheet' id='photoboxie-css' href='https://petri.com/wp-content/plugins/fastgallery/css/photobox.ie.css' type='text/css' media='all' />
+<link rel='stylesheet' id='photobox-style-css' href='https://petri.com/wp-content/plugins/fastgallery/css/photobox-style.css' type='text/css' media='all' />
+<link rel='stylesheet' id='prettyPhoto-css' href='https://petri.com/wp-content/plugins/fastgallery/css/prettyPhoto.css' type='text/css' media='all' />
+<link rel='stylesheet' id='magnific-popup-css' href='https://petri.com/wp-content/plugins/fastgallery/css/magnific-popup.css' type='text/css' media='all' />
+<link rel='stylesheet' id='fotorama-css-css' href='https://petri.com/wp-content/plugins/fastgallery/css/fotorama.css' type='text/css' media='all' />
+<link rel='stylesheet' id='fonts-css' href='https://petri.com/wp-content/plugins/fastgallery/css/fonts.css' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css' href='https://petri.com/wp-content/plugins/contact-form-7/includes/css/styles.css' type='text/css' media='all' />
+<link rel='stylesheet' id='moderation-tools-bbpress-css' href='https://petri.com/wp-content/plugins/moderation-tools-for-bbpress/css/front.css' type='text/css' media='all' />
+<link rel='stylesheet' id='frontend-app-css' href='https://petri.com/tmp/css/dashboard.css' type='text/css' media='all' />
+<!--[if lte IE 9]>
+<script defer='defer' type='text/javascript' src='https://petri.com/wp-content/themes/monstro/assets/scripts/legacy.21606223.js'></script>
+<![endif]-->
+<script defer='defer' type='text/javascript' src='https://petri.com/wp-content/themes/monstro/assets/scripts/prebid.aa5d2ad9.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var monsterinsights_frontend = {"js_events_tracking":"true","download_extensions":"doc,pdf,ppt,zip,xls,docx,pptx,xlsx","inbound_paths":"[{\"path\":\"\\\/go\\\/\",\"label\":\"affiliate\"},{\"path\":\"\\\/recommend\\\/\",\"label\":\"affiliate\"}]","home_url":"https:\/\/petri.com","hash_tracking":"false"};
+/* ]]> */
+</script>
+<script defer='defer' type='text/javascript' src='https://petri.com/wp-content/plugins/google-analytics-premium/assets/js/frontend.min.js'></script>
+<script defer='defer' type='text/javascript' src='https://petri.com/wp-includes/js/jquery/jquery.js'></script>
+<script defer='defer' type='text/javascript' src='https://petri.com/wp-includes/js/jquery/jquery-migrate.min.js'></script>
+<script defer='defer' type='text/javascript' src='https://petri.com/wp-content/plugins/font-awesome-5-pro-for-wp-v5.3.1/assets/all.min.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var ctPublic = {"_ajax_nonce":"5e62d20cdb","_ajax_url":"https:\/\/petri.com\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script defer='defer' type='text/javascript' src='https://petri.com/wp-content/plugins/cleantalk-spam-protect/js/apbct-public.min.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var ctNocache = {"ajaxurl":"https:\/\/petri.com\/wp-admin\/admin-ajax.php","info_flag":"","set_cookies_flag":"","blog_home":"https:\/\/petri.com\/"};
+/* ]]> */
+</script>
+<script defer='defer' type='text/javascript' src='https://petri.com/wp-content/plugins/cleantalk-spam-protect/js/cleantalk_nocache.min.js'></script>
+<link rel='https://api.w.org/' href='https://petri.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://petri.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://petri.com/wp-includes/wlwmanifest.xml" />
+<meta name="generator" content="WordPress 5.4.2" />
+<script type="text/javascript"><!--
+function powerpress_pinw(pinw_url){window.open(pinw_url, 'PowerPressPlayer','toolbar=0,status=0,resizable=1,width=460,height=320');	return false;}
+//-->
+</script>
+<link rel="icon" href="https://petri.com/wp-content/uploads/sites/3/2019/10/Asset-1@2x-1sq.png" sizes="32x32" />
+<link rel="icon" href="https://petri.com/wp-content/uploads/sites/3/2019/10/Asset-1@2x-1sq.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://petri.com/wp-content/uploads/sites/3/2019/10/Asset-1@2x-1sq.png" />
+<meta name="msapplication-TileImage" content="https://petri.com/wp-content/uploads/sites/3/2019/10/Asset-1@2x-1sq.png" />
+<script src="https://www.googletagservices.com/tag/js/gpt.js"></script>
+<script async src="//www.googletagservices.com/tag/js/gpt.js"></script>
+<script src='https://ap.lijit.com/www/sovrn_beacon_standalone/sovrn_standalone_beacon.js?iid=13400626' id='sBeacon'></script>
+<script>
+var desktopSizes = [
+  [728, 90],
+  [300, 600],
+  [300, 250]
+];
+var tabletSizes = [
+  [728, 90],
+  [300, 600],
+  [300, 250]
+];
+var phoneSizes = [
+  [300, 600],
+  [300, 250]
+];
+var allSizes = [
+  [728, 90],
+  [300, 600],
+  [300, 250]
+];
+var PREBID_TIMEOUT = 1000;
+var FAILSAFE_TIMEOUT = 3000;
+
+var adUnits = [{
+    code: 'div-gpt-ad-138274153973-0',
+    mediaTypes: {
+      banner: {
+        sizes: [300, 250]
+      }
+    },
+    bids: [{
+      bidder: 'sovrn',
+      params: {
+        tagid: '478729'
+      }
+    }, {
+         bidder: 'rubicon',
+         params: {accountId: '21638', siteId: '293518', zoneId: '1474820'}
+       }, {
+      bidder: 'appnexus',
+      params: {
+        placementId: '11652209'
+      }
+    }]
+  },
+  {
+    code: 'div-gpt-ad-1522428278339-1',
+    mediaTypes: {
+      banner: {
+        sizes: [300, 250]
+      }
+    },
+    bids: [{
+      bidder: 'sovrn',
+      params: {
+        tagid: '444798'
+      }
+    }, {
+         bidder: 'rubicon',
+         params: {accountId: '21638', siteId: '293518', zoneId: '1474820'}
+       }, {
+      bidder: 'appnexus',
+      params: {
+        placementId: '11472387'
+      }
+    }]
+  },
+  {
+    code: 'div-gpt-ad-1522428278339-7',
+    mediaTypes: {
+      banner: {
+        sizes: [728, 90]
+      }
+    },
+    bids: [{
+      bidder: 'sovrn',
+      params: {
+        tagid: '470414'
+      }
+    }, {
+         bidder: 'rubicon',
+         params: {accountId: '21638', siteId: '293518', zoneId: '1474820'}
+       }, {
+      bidder: 'appnexus',
+      params: {
+        placementId: '11472383'
+      }
+    }]
+  },
+  {
+    code: 'div-gpt-ad-1522428278339-0',
+    mediaTypes: {
+      banner: {
+        sizes: [728, 90]
+      }
+    },
+    bids: [{
+      bidder: 'sovrn',
+      params: {
+        tagid: '470414'
+      }
+    }, {
+         bidder: 'rubicon',
+         params: {accountId: '21638', siteId: '293518', zoneId: '1474820'}
+       }, {
+      bidder: 'appnexus',
+      params: {
+        placementId: '11472383'
+      }
+    }]
+  },
+  {
+    code: 'div-gpt-ad-1522428278339-2',
+    mediaTypes: {
+      banner: {
+        sizes: [[300, 250], [300, 600]]
+      }
+    },
+    bids: [{
+      bidder: 'sovrn',
+      params: {
+        tagid: '478733'
+      }
+    }, {
+         bidder: 'rubicon',
+         params: {accountId: '21638', siteId: '293518', zoneId: '1474820'}
+       }, {
+      bidder: 'appnexus',
+      params: {
+        placementId: '11472387'
+      }
+    }]
+  },
+  {
+    code: 'div-gpt-ad-1522428278339-21',
+    mediaTypes: {
+      banner: {
+        sizes: [[300, 250], [300, 600]]
+      }
+    },
+    bids: [{
+      bidder: 'sovrn',
+      params: {
+        tagid: '470420'
+      }
+    }, {
+         bidder: 'rubicon',
+         params: {accountId: '21638', siteId: '293518', zoneId: '1474820'}
+       }, {
+      bidder: 'appnexus',
+      params: {
+        placementId: '11472385'
+      }
+    }]
+  }
+];
+
+var pbjs = pbjs || {};
+pbjs.que = pbjs.que || [];
+
+</script>
+<script>
+      var googletag = googletag || {};
+      googletag.cmd = googletag.cmd || [];
+      googletag.cmd.push(function() {
+        googletag.pubads().disableInitialLoad();
+      });
+
+      pbjs.que.push(function() {
+        pbjs.addAdUnits(adUnits);
+        pbjs.setConfig({
+          sizeConfig: [{
+            'mediaQuery': '(min-width: 967px)',
+            'sizesSupported': desktopSizes,
+            'labels': ['desktop']
+          }, {
+            'mediaQuery': '(min-width: 768px) and (max-width: 1024px)',
+            'sizesSupported': tabletSizes,
+            'labels': ['tablet']
+          }, {
+            'mediaQuery': '(min-width: 320px) and (max-width: 767px)',
+            'sizesSupported': phoneSizes,
+            'labels': ['phone']
+          }]
+        });
+        pbjs.requestBids({
+          bidsBackHandler: sendAdserverRequest,
+          timeout: PREBID_TIMEOUT
+        });
+      });
+      function sendAdserverRequest() {
+        if (pbjs.adserverRequestSent) return;
+        pbjs.adserverRequestSent = true;
+        googletag.cmd.push(function() {
+          pbjs.que.push(function() {
+            pbjs.setTargetingForGPTAsync();
+            googletag.pubads().refresh();
+          });
+        });
+      }
+
+      // in case PBJS doesn't load
+      setTimeout(function() {
+        sendAdserverRequest();
+      }, FAILSAFE_TIMEOUT);
+
+    </script>
+<script>
+var LB4 = googletag.sizeMapping().
+      addSize([1300, 0], [1500, 250]).
+      addSize([902, 0], [900, 90]).
+      addSize([0, 0], []).
+      build();
+var LB = googletag.sizeMapping().
+      addSize([902, 0], [[728, 90], [970, 90]]).  
+      addSize([730, 0], [728, 90]).  
+      addSize([0, 0], [[320, 50], [320, 100]]).
+      build();
+  var LB2 = googletag.sizeMapping().
+      addSize([1168, 0], [[728, 90], [890, 172]]). 
+      addSize([983, 0], [300, 250]).  
+      addSize([780, 0], [728, 90]).  
+     // addSize([883, 0], [728, 90]).  
+     // addSize([576, 0], [[300, 250], [320, 50], [320, 100]]).
+      addSize([0, 0], [300, 250]).
+      build();
+  var LB3 = googletag.sizeMapping().
+      addSize([1200, 0], [728, 90]).
+      // addSize([902, 0], [[600, 75], [728, 90], [970, 90]]).  
+      addSize([780, 0], [[300, 250], [320, 50], [320, 100], [600, 75]]).  
+     // addSize([576, 0], [[300, 250], [320, 50], [320, 100], [468, 60]]).
+      addSize([0, 0], [[300, 250], [320, 50], [320, 100]]).
+      build();
+  var SKY = googletag.sizeMapping().
+      addSize([577, 0], [[300, 415], [300, 600]]).
+      addSize([0, 0], [300, 250]).
+      build();
+  var ICPB = googletag.sizeMapping().
+      addSize([1024, 0], [[300, 250], [361, 203], [600, 155]]).
+      addSize([0, 0], [[300, 250], [361, 203]]).
+      build();
+  var SKIN = googletag.sizeMapping().
+      addSize([768, 0], [1, 1]).
+      addSize([0, 0], []).
+      build();
+
+             
+  googletag.cmd.push(function() {
+    googletag.defineSlot('/1030620/petri_sponsorship_mmbillboard', [[900, 90], [1500, 250]], 'div-gpt-ad-1522428278339-4').defineSizeMapping(LB4).addService(googletag.pubads());
+    googletag.defineSlot('/1030620/petri_sponsorship_header_2018', [[320, 50], [320, 100], [728, 90], [970, 90]], 'div-gpt-ad-1522428278339-3').defineSizeMapping(LB).addService(googletag.pubads());    
+    googletag.defineSlot('/1030620/petri_sidebar_1_2018', [300, 250], 'div-gpt-ad-1522428278339-1').addService(googletag.pubads());
+     googletag.defineSlot('/1030620/petri_sponsored_post_leaderboard', [[300, 250], [728, 90], [809, 172]], 'div-gpt-ad-1522428278339-7').defineSizeMapping(LB2).addService(googletag.pubads());
+    googletag.defineSlot('/1030620/petri_sidebar_2_2018', [[300, 250], [300, 415], [300, 600]], 'div-gpt-ad-1522428278339-2').defineSizeMapping(SKY).addService(googletag.pubads());
+    googletag.defineSlot('/1030620/in_content_premium_block', [[300, 250], [361, 203], [600, 155]], 'div-gpt-ad-138274153973-0').defineSizeMapping(ICPB).setCollapseEmptyDiv(true).addService(googletag.pubads());
+    googletag.defineSlot('/1030620/petri_leaderboard_2018', [[300, 250], [320, 50], [320, 100], [600, 75], [728, 90]], 'div-gpt-ad-1522428278339-0').defineSizeMapping(LB3).addService(googletag.pubads());
+    googletag.defineSlot('/1030620/petri_sponsored_post_sidebar', [[300, 250], [300, 600]], 'div-gpt-ad-1522428278339-21').defineSizeMapping(SKY).addService(googletag.pubads()); 
+    googletag.defineSlot('/1030620/petri_sidebar_1_2020_responsive', [300, 250], 'div-gpt-ad-1522428278339-12').addService(googletag.pubads());
+    googletag.defineSlot('/1030620/petri_sidebar_2_2020_responsive', [300, 250], 'div-gpt-ad-1522428278339-22').addService(googletag.pubads());
+
+    googletag.defineSlot('/1030620/petri_pageskin', [1, 1], 'div-gpt-ad-1523040666549-0').defineSizeMapping(SKIN).addService(googletag.pubads());
+    googletag.defineSlot('/1030620/petri_1x1', [1, 1], 'div-gpt-ad-1522428278339-6').addService(googletag.pubads());
+    googletag.defineSlot('/1030620/petri_webinar', [1260, 315], 'div-gpt-ad-1588803492990-0').addService(googletag.pubads());
+    googletag.defineSlot('/1030620/petri_homepage_sponsored_post', [[1256, 250], 'fluid'], 'div-gpt-ad-1588977543207-0').addService(googletag.pubads());
+
+    googletag.pubads().setTargeting("type","archive");
+    googletag.pubads().setTargeting("article","");
+    googletag.pubads().setTargeting('category_name', "homepage");
+   
+    // googletag.pubads().enableSingleRequest();
+    googletag.pubads().setCentering(true);
+    googletag.pubads().collapseEmptyDivs();
+    googletag.enableServices();
+  });
+</script>
+</head>
+<body class="home blog wp-custom-logo">
+<div id='div-gpt-ad-1522428278339-6'>
+<script>
+                googletag.cmd.push(function() { googletag.display('div-gpt-ad-1522428278339-6'); });
+                </script>
+</div> <div id='div-gpt-ad-1522428278339-4' style="overflow-x:hidden">
+<script>
+        googletag.cmd.push(function() { googletag.display('div-gpt-ad-1522428278339-4'); });
+        </script>
+</div>
+<div class="page_container" data-sticky-container>
+<div class="navigation-block -main " role="navigation">
+
+<div class="navigation_inner">
+<div class="navigation_row navigation_row-header row -nowrap">
+<div class="logo-nav-options">
+<a href="https://petri.com/" class="header_logo logo custom-logo-link" rel="home"><img src="https://petri.com/wp-content/uploads/sites/3/2019/10/Asset-2@2x.png" class="logo_image custom-logo" alt="Petri"></a> <a class="header_logo logo logo-small _show-on-stuck" href="https://petri.com">
+<img src="https://petri.com/wp-content/uploads/sites/3/2019/10/Asset-1@2x-1.png" />
+</a>
+<div class="navigation_search-form_container search-form_container -expand _show-on-stuck" role="search">
+<form class="search-form" action="https://petri.com" method="get">
+<label class="search-form_label _visuallyhidden" for="s">Search for:</label>
+<input class="search-form_input" name="s" placeholder="Search" title="Search for:" type="search" value="" />
+<button class="search-form_button" type="submit"><i class="fas fa-search"></i><span class="_visuallyhidden">Search</span></button>
+</form>
+</div>
+
+<div class="menu-toggle_container _show-on-stuck">
+<button class="menu-toggle menu-toggle--action"></button>
+<span class="menu-toggle--text menu-toggle--action">Sections</span>
+<div class="navigation-block -toggled" role="navigation" aria-hidden="true">
+<div class="navigation_inner">
+<div class="navigation_search-form_container search-form_container" role="search">
+<form class="search-form" action="https://petri.com" method="get">
+<label class="search-form_label _visuallyhidden" for="s">Search for:</label>
+<input class="search-form_input" name="s" placeholder="Search" title="Search for:" type="search" value="" />
+<button class="search-form_button" type="submit"><i class="fas fa-search"></i><span class="_visuallyhidden">Search</span></button>
+</form>
+</div>
+<ul class='menu-list -navigation -vertical -secondary' data-hover='true' data-touch='true'><li class='menu-item menu-item-type-custom menu-item-object-custom menu-list_item'><a class='menu-list_link link' href='https://petri.com/forums'><span>Forums</span></a></li><li class='menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-list_item -parent'><a class='menu-list_link link' href='/category/podcasts'><span>Podcasts</span></a><button class='menu-list_toggle'><i class='fas fa-angle-down'></i><span class='_visuallyhidden'>Toggle children</span></button><ul class='menu-list -vertical -child -tier1 -accordion'><li class='menu-item menu-item-type-taxonomy menu-item-object-category menu-list_item'><a class='menu-list_link link' href='https://petri.com/category/podcasts/enterprise-dish'><span>Enterprise Dish</span></a></li><li class='menu-item menu-item-type-taxonomy menu-item-object-category menu-list_item'><a class='menu-list_link link' href='https://petri.com/category/podcasts/m365-knowledge'><span>M365 Knowledge</span></a></li><li class='menu-item menu-item-type-taxonomy menu-item-object-category menu-list_item'><a class='menu-list_link link' href='https://petri.com/category/podcasts/mjf-chat'><span>MJF Chat</span></a></li><li class='menu-item menu-item-type-taxonomy menu-item-object-category menu-list_item'><a class='menu-list_link link' href='https://petri.com/category/podcasts/petri-dish'><span>Petri Dish</span></a></li></ul></li><li class='menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-list_item -parent'><a class='menu-list_link link' href='#'><span>Resources</span></a><button class='menu-list_toggle'><i class='fas fa-angle-down'></i><span class='_visuallyhidden'>Toggle children</span></button><ul class='menu-list -vertical -child -tier1 -accordion'><li class='menu-item menu-item-type-custom menu-item-object-custom menu-list_item'><a class='menu-list_link link' href='/resources/type/webinars'><span>Webinars</span></a></li><li class='menu-item menu-item-type-custom menu-item-object-custom menu-list_item'><a class='menu-list_link link' href='/conferences'><span>Conferences</span></a></li></ul></li><li class='menu-item menu-item-type-custom menu-item-object-custom menu-list_item'><a class='menu-list_link link' href='/manage-subscriptions'><span>Newsletters</span></a></li></ul> <nav class='navigation_menu-list_container menu-list_container'>
+<ul class='menu-list -navigation -vertical'>
+<li class='menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-list_item -parent'><a class='menu-list_link link' href='/category/windows-client-os'><span>Windows</span></a><button class='menu-list_toggle'><i class='fas fa-angle-down'></i><span class='_visuallyhidden'>Toggle children</span></button><ul class='menu-list -vertical -child -tier1 -accordion'><li class='menu-item menu-item-type-taxonomy menu-item-object-category menu-list_item'><a class='menu-list_link link' href='https://petri.com/category/windows-client-os/windows-10'><span>Windows 10</span></a></li><li class='menu-item menu-item-type-taxonomy menu-item-object-category menu-list_item'><a class='menu-list_link link' href='https://petri.com/category/windows-client-os/windows-8'><span>Windows 8</span></a></li><li class='menu-item menu-item-type-taxonomy menu-item-object-category menu-list_item'><a class='menu-list_link link' href='https://petri.com/category/windows-client-os/windows-7'><span>Windows 7</span></a></li><li class='menu-item menu-item-type-taxonomy menu-item-object-category menu-list_item'><a class='menu-list_link link' href='https://petri.com/category/windows-server'><span>Windows Server</span></a></li></ul></li><li class='menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-list_item -parent'><a class='menu-list_link link' href='/category/cloud-computing'><span>Cloud</span></a><button class='menu-list_toggle'><i class='fas fa-angle-down'></i><span class='_visuallyhidden'>Toggle children</span></button><ul class='menu-list -vertical -child -tier1 -accordion'><li class='menu-item menu-item-type-taxonomy menu-item-object-category menu-list_item'><a class='menu-list_link link' href='https://petri.com/category/cloud-computing/microsoft-azure'><span>Microsoft Azure</span></a></li><li class='menu-item menu-item-type-taxonomy menu-item-object-category menu-list_item'><a class='menu-list_link link' href='https://petri.com/category/cloud-computing/amazon-web-services'><span>Amazon Web Services</span></a></li><li class='menu-item menu-item-type-taxonomy menu-item-object-category menu-list_item'><a class='menu-list_link link' href='https://petri.com/category/cloud-computing/google-cloud-platform'><span>Google Cloud</span></a></li></ul></li><li class='menu-item menu-item-type-taxonomy menu-item-object-category menu-list_item'><a class='menu-list_link link' href='https://petri.com/category/office/office-365' aria-describedby='menu-list_description_5f8e70720c384'><span>Office 365</span></a></li><li class='menu-item menu-item-type-taxonomy menu-item-object-category menu-list_item'><a class='menu-list_link link' href='https://petri.com/category/microsoft-365'><span>Microsoft 365</span></a></li><li class='menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-list_item -parent'><a class='menu-list_link link' href='###'><span>Servers</span></a><button class='menu-list_toggle'><i class='fas fa-angle-down'></i><span class='_visuallyhidden'>Toggle children</span></button><ul class='menu-list -vertical -child -tier1 -accordion'><li class='menu-item menu-item-type-taxonomy menu-item-object-category menu-list_item'><a class='menu-list_link link' href='https://petri.com/category/exchange'><span>Exchange Server</span></a></li><li class='menu-item menu-item-type-taxonomy menu-item-object-category menu-list_item'><a class='menu-list_link link' href='https://petri.com/category/sql' aria-describedby='menu-list_description_5f8e70720c3a9'><span>SQL Server</span></a></li></ul></li><li class='menu-item menu-item-type-taxonomy menu-item-object-category menu-list_item'><a class='menu-list_link link' href='https://petri.com/category/backup-and-storage'><span>Backup & Storage</span></a></li><li class='menu-item menu-item-type-taxonomy menu-item-object-category menu-list_item'><a class='menu-list_link link' href='https://petri.com/category/sharepoint'><span>SharePoint</span></a></li><li class='menu-item menu-item-type-taxonomy menu-item-object-category menu-list_item'><a class='menu-list_link link' href='https://petri.com/category/security'><span>Security</span></a></li><li class='menu-item menu-item-type-taxonomy menu-item-object-category menu-list_item'><a class='menu-list_link link' href='https://petri.com/category/powershell' aria-describedby='menu-list_description_5f8e70720c3ca'><span>PowerShell</span></a></li> </ul>
+</nav>
+<nav class='navigation_menu-list_container menu-list_container -callouts'>
+<span class="callouts-header">Follow us</span><ul class='menu-list -tabs -small'><li class='menu-item menu-item-type-custom menu-item-object-custom menu-list_item'><a class='menu-list_link link' href='https://www.facebook.com/itpetrikb' target='_blank'><span><i class='fab fa-facebook'></i></span></a></li><li class='menu-item menu-item-type-custom menu-item-object-custom menu-list_item'><a class='menu-list_link link' href='https://twitter.com/petrifeed' target='_blank'><span><i class='fab fa-twitter'></i></span></a></li><li class='menu-item menu-item-type-custom menu-item-object-custom menu-list_item'><a class='menu-list_link link' href='https://www.linkedin.com/groups/95390/' target='_blank'><span><i class='fab fa-linkedin'></i></span></a></li><li class='menu-item menu-item-type-custom menu-item-object-custom menu-list_item'><a class='menu-list_link link' href='/feed' target='_blank'><span><i class='fas fa-rss'></i></span></a></li></ul> </nav>
+</div>
+</div>
+</div>
+</div>
+<nav class='navigation_menu-list_container menu-list_container -header'>
+<ul class='menu-list -navigation' data-hover='true' data-touch='true'><li class='menu-item menu-item-type-custom menu-item-object-custom menu-list_item'><a class='menu-list_link link' href='https://petri.com/forums'><span>Forums</span></a></li><li class='menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-list_item -parent'><a class='menu-list_link link' href='/category/podcasts'><span>Podcasts</span></a><button class='menu-list_toggle _touch'><i class='fas fa-angle-down'></i><span class='_visuallyhidden'>Toggle children</span></button><button class='menu-list_toggle _visuallyhidden _mouse'>Toggle children</button><ul class='menu-list -vertical -child -tier1 -overlay' data-hover='true' data-touch='true' aria-hidden='true'><li class='menu-item menu-item-type-taxonomy menu-item-object-category menu-list_item'><a class='menu-list_link link' href='https://petri.com/category/podcasts/enterprise-dish'><span>Enterprise Dish</span></a></li><li class='menu-item menu-item-type-taxonomy menu-item-object-category menu-list_item'><a class='menu-list_link link' href='https://petri.com/category/podcasts/m365-knowledge'><span>M365 Knowledge</span></a></li><li class='menu-item menu-item-type-taxonomy menu-item-object-category menu-list_item'><a class='menu-list_link link' href='https://petri.com/category/podcasts/mjf-chat'><span>MJF Chat</span></a></li><li class='menu-item menu-item-type-taxonomy menu-item-object-category menu-list_item'><a class='menu-list_link link' href='https://petri.com/category/podcasts/petri-dish'><span>Petri Dish</span></a></li></ul></li><li class='menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-list_item -parent'><a class='menu-list_link link' href='#'><span>Resources</span></a><button class='menu-list_toggle _touch'><i class='fas fa-angle-down'></i><span class='_visuallyhidden'>Toggle children</span></button><button class='menu-list_toggle _visuallyhidden _mouse'>Toggle children</button><ul class='menu-list -vertical -child -tier1 -overlay' data-hover='true' data-touch='true' aria-hidden='true'><li class='menu-item menu-item-type-custom menu-item-object-custom menu-list_item'><a class='menu-list_link link' href='/resources/type/webinars'><span>Webinars</span></a></li><li class='menu-item menu-item-type-custom menu-item-object-custom menu-list_item'><a class='menu-list_link link' href='/conferences'><span>Conferences</span></a></li></ul></li><li class='menu-item menu-item-type-custom menu-item-object-custom menu-list_item'><a class='menu-list_link link' href='/manage-subscriptions'><span>Newsletters</span></a></li></ul> <div class="navigation_user_bubble">
+<figure class="navigation_user_bubble_profile">
+<i class="fad fa-user-circle"></i>
+</figure>
+<ul class="navigation_user_bubble_list">
+<li class="menu-list_item">
+<a class="menu-list_link link" href="/register">Create Account</a>
+</li>
+<li class="menu-list_item">
+<a class="menu-list_link link" href="/login">Log In</a>
+</li>
+</ul>
+</div>
+</nav>
+</div>
+<div class="navigation_row navigation_row-primary row -nowrap">
+<div class="navigation_search-form_container search-form_container -expand _nomargin" role="search">
+<form class="search-form" action="https://petri.com" method="get">
+<label class="search-form_label _visuallyhidden" for="s">Search for:</label>
+<input class="search-form_input" name="s" placeholder="Search" title="Search for:" type="search" value="" />
+<button class="search-form_button" type="submit"><i class="fas fa-search"></i><span class="_visuallyhidden">Search</span></button>
+</form>
+</div>
+<div class="menu-toggle_container">
+<button class="menu-toggle menu-toggle--action"></button>
+<span class="menu-toggle--text menu-toggle--action">Sections</span>
+<div class="navigation-block -toggled" role="navigation" aria-hidden="true">
+<div class="navigation_inner">
+<nav class='navigation_menu-list_container menu-list_container'>
+<ul class='menu-list -navigation -vertical'>
+<li class='menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-list_item -parent'><a class='menu-list_link link' href='/category/windows-client-os'><span>Windows</span></a><button class='menu-list_toggle'><i class='fas fa-angle-down'></i><span class='_visuallyhidden'>Toggle children</span></button><ul class='menu-list -vertical -child -tier1 -accordion'><li class='menu-item menu-item-type-taxonomy menu-item-object-category menu-list_item'><a class='menu-list_link link' href='https://petri.com/category/windows-client-os/windows-10'><span>Windows 10</span></a></li><li class='menu-item menu-item-type-taxonomy menu-item-object-category menu-list_item'><a class='menu-list_link link' href='https://petri.com/category/windows-client-os/windows-8'><span>Windows 8</span></a></li><li class='menu-item menu-item-type-taxonomy menu-item-object-category menu-list_item'><a class='menu-list_link link' href='https://petri.com/category/windows-client-os/windows-7'><span>Windows 7</span></a></li><li class='menu-item menu-item-type-taxonomy menu-item-object-category menu-list_item'><a class='menu-list_link link' href='https://petri.com/category/windows-server'><span>Windows Server</span></a></li></ul></li><li class='menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-list_item -parent'><a class='menu-list_link link' href='/category/cloud-computing'><span>Cloud</span></a><button class='menu-list_toggle'><i class='fas fa-angle-down'></i><span class='_visuallyhidden'>Toggle children</span></button><ul class='menu-list -vertical -child -tier1 -accordion'><li class='menu-item menu-item-type-taxonomy menu-item-object-category menu-list_item'><a class='menu-list_link link' href='https://petri.com/category/cloud-computing/microsoft-azure'><span>Microsoft Azure</span></a></li><li class='menu-item menu-item-type-taxonomy menu-item-object-category menu-list_item'><a class='menu-list_link link' href='https://petri.com/category/cloud-computing/amazon-web-services'><span>Amazon Web Services</span></a></li><li class='menu-item menu-item-type-taxonomy menu-item-object-category menu-list_item'><a class='menu-list_link link' href='https://petri.com/category/cloud-computing/google-cloud-platform'><span>Google Cloud</span></a></li></ul></li><li class='menu-item menu-item-type-taxonomy menu-item-object-category menu-list_item'><a class='menu-list_link link' href='https://petri.com/category/office/office-365' aria-describedby='menu-list_description_5f8e70720c384'><span>Office 365</span></a></li><li class='menu-item menu-item-type-taxonomy menu-item-object-category menu-list_item'><a class='menu-list_link link' href='https://petri.com/category/microsoft-365'><span>Microsoft 365</span></a></li><li class='menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-list_item -parent'><a class='menu-list_link link' href='###'><span>Servers</span></a><button class='menu-list_toggle'><i class='fas fa-angle-down'></i><span class='_visuallyhidden'>Toggle children</span></button><ul class='menu-list -vertical -child -tier1 -accordion'><li class='menu-item menu-item-type-taxonomy menu-item-object-category menu-list_item'><a class='menu-list_link link' href='https://petri.com/category/exchange'><span>Exchange Server</span></a></li><li class='menu-item menu-item-type-taxonomy menu-item-object-category menu-list_item'><a class='menu-list_link link' href='https://petri.com/category/sql' aria-describedby='menu-list_description_5f8e70720c3a9'><span>SQL Server</span></a></li></ul></li><li class='menu-item menu-item-type-taxonomy menu-item-object-category menu-list_item'><a class='menu-list_link link' href='https://petri.com/category/backup-and-storage'><span>Backup & Storage</span></a></li><li class='menu-item menu-item-type-taxonomy menu-item-object-category menu-list_item'><a class='menu-list_link link' href='https://petri.com/category/sharepoint'><span>SharePoint</span></a></li><li class='menu-item menu-item-type-taxonomy menu-item-object-category menu-list_item'><a class='menu-list_link link' href='https://petri.com/category/security'><span>Security</span></a></li><li class='menu-item menu-item-type-taxonomy menu-item-object-category menu-list_item'><a class='menu-list_link link' href='https://petri.com/category/powershell' aria-describedby='menu-list_description_5f8e70720c3ca'><span>PowerShell</span></a></li> </ul>
+</nav>
+<nav class='navigation_menu-list_container menu-list_container -callouts'>
+<span class="callouts-header">Follow us</span><ul class='menu-list -tabs -small'><li class='menu-item menu-item-type-custom menu-item-object-custom menu-list_item'><a class='menu-list_link link' href='https://www.facebook.com/itpetrikb' target='_blank'><span><i class='fab fa-facebook'></i></span></a></li><li class='menu-item menu-item-type-custom menu-item-object-custom menu-list_item'><a class='menu-list_link link' href='https://twitter.com/petrifeed' target='_blank'><span><i class='fab fa-twitter'></i></span></a></li><li class='menu-item menu-item-type-custom menu-item-object-custom menu-list_item'><a class='menu-list_link link' href='https://www.linkedin.com/groups/95390/' target='_blank'><span><i class='fab fa-linkedin'></i></span></a></li><li class='menu-item menu-item-type-custom menu-item-object-custom menu-list_item'><a class='menu-list_link link' href='/feed' target='_blank'><span><i class='fas fa-rss'></i></span></a></li></ul> </nav>
+</div>
+</div>
+</div>
+<nav class='navigation_menu-list_container menu-list_container -primary'>
+<ul class='menu-list -navigation -horizontal' data-hover='true' data-touch='true'>
+<li class='menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-list_item -parent'><a class='menu-list_link link' href='/category/windows-client-os'><span>Windows</span></a><button class='menu-list_toggle _touch'><i class='fas fa-angle-down'></i><span class='_visuallyhidden'>Toggle children</span></button><button class='menu-list_toggle _visuallyhidden _mouse'>Toggle children</button><ul class='menu-list -vertical -child -tier1 -overlay' data-hover='true' data-touch='true' aria-hidden='true'><li class='menu-item menu-item-type-taxonomy menu-item-object-category menu-list_item'><a class='menu-list_link link' href='https://petri.com/category/windows-client-os/windows-10'><span>Windows 10</span></a></li><li class='menu-item menu-item-type-taxonomy menu-item-object-category menu-list_item'><a class='menu-list_link link' href='https://petri.com/category/windows-client-os/windows-8'><span>Windows 8</span></a></li><li class='menu-item menu-item-type-taxonomy menu-item-object-category menu-list_item'><a class='menu-list_link link' href='https://petri.com/category/windows-client-os/windows-7'><span>Windows 7</span></a></li><li class='menu-item menu-item-type-taxonomy menu-item-object-category menu-list_item'><a class='menu-list_link link' href='https://petri.com/category/windows-server'><span>Windows Server</span></a></li></ul></li><li class='menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-list_item -parent'><a class='menu-list_link link' href='/category/cloud-computing'><span>Cloud</span></a><button class='menu-list_toggle _touch'><i class='fas fa-angle-down'></i><span class='_visuallyhidden'>Toggle children</span></button><button class='menu-list_toggle _visuallyhidden _mouse'>Toggle children</button><ul class='menu-list -vertical -child -tier1 -overlay' data-hover='true' data-touch='true' aria-hidden='true'><li class='menu-item menu-item-type-taxonomy menu-item-object-category menu-list_item'><a class='menu-list_link link' href='https://petri.com/category/cloud-computing/microsoft-azure'><span>Microsoft Azure</span></a></li><li class='menu-item menu-item-type-taxonomy menu-item-object-category menu-list_item'><a class='menu-list_link link' href='https://petri.com/category/cloud-computing/amazon-web-services'><span>Amazon Web Services</span></a></li><li class='menu-item menu-item-type-taxonomy menu-item-object-category menu-list_item'><a class='menu-list_link link' href='https://petri.com/category/cloud-computing/google-cloud-platform'><span>Google Cloud</span></a></li></ul></li><li class='menu-item menu-item-type-taxonomy menu-item-object-category menu-list_item'><a class='menu-list_link link' href='https://petri.com/category/office/office-365' aria-describedby='menu-list_description_5f8e70720cdd5'><span>Office 365</span></a></li><li class='menu-item menu-item-type-taxonomy menu-item-object-category menu-list_item'><a class='menu-list_link link' href='https://petri.com/category/microsoft-365'><span>Microsoft 365</span></a></li><li class='menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-list_item -parent'><a class='menu-list_link link' href='###'><span>Servers</span></a><button class='menu-list_toggle _touch'><i class='fas fa-angle-down'></i><span class='_visuallyhidden'>Toggle children</span></button><button class='menu-list_toggle _visuallyhidden _mouse'>Toggle children</button><ul class='menu-list -vertical -child -tier1 -overlay' data-hover='true' data-touch='true' aria-hidden='true'><li class='menu-item menu-item-type-taxonomy menu-item-object-category menu-list_item'><a class='menu-list_link link' href='https://petri.com/category/exchange'><span>Exchange Server</span></a></li><li class='menu-item menu-item-type-taxonomy menu-item-object-category menu-list_item'><a class='menu-list_link link' href='https://petri.com/category/sql' aria-describedby='menu-list_description_5f8e70720ce0c'><span>SQL Server</span></a></li></ul></li><li class='menu-item menu-item-type-taxonomy menu-item-object-category menu-list_item'><a class='menu-list_link link' href='https://petri.com/category/backup-and-storage'><span>Backup & Storage</span></a></li><li class='menu-item menu-item-type-taxonomy menu-item-object-category menu-list_item'><a class='menu-list_link link' href='https://petri.com/category/sharepoint'><span>SharePoint</span></a></li><li class='menu-item menu-item-type-taxonomy menu-item-object-category menu-list_item'><a class='menu-list_link link' href='https://petri.com/category/security'><span>Security</span></a></li><li class='menu-item menu-item-type-taxonomy menu-item-object-category menu-list_item'><a class='menu-list_link link' href='https://petri.com/category/powershell' aria-describedby='menu-list_description_5f8e70720ce32'><span>PowerShell</span></a></li> </ul>
+</nav>
+<nav class='navigation_menu-list_container menu-list_container -callouts'>
+<span class="callouts-header">Follow us</span><ul class='menu-list -tabs -small'><li class='menu-item menu-item-type-custom menu-item-object-custom menu-list_item'><a class='menu-list_link link' href='https://www.facebook.com/itpetrikb' target='_blank'><span><i class='fab fa-facebook'></i></span></a></li><li class='menu-item menu-item-type-custom menu-item-object-custom menu-list_item'><a class='menu-list_link link' href='https://twitter.com/petrifeed' target='_blank'><span><i class='fab fa-twitter'></i></span></a></li><li class='menu-item menu-item-type-custom menu-item-object-custom menu-list_item'><a class='menu-list_link link' href='https://www.linkedin.com/groups/95390/' target='_blank'><span><i class='fab fa-linkedin'></i></span></a></li><li class='menu-item menu-item-type-custom menu-item-object-custom menu-list_item'><a class='menu-list_link link' href='/feed' target='_blank'><span><i class='fas fa-rss'></i></span></a></li></ul> </nav>
+</div>
+</div>
+</div><div class="hero-block -featuredposts">
+<div class="hero_inner">
+<div class="hero_swiper-container swiper-container">
+<div class="swiper-wrapper">
+<section class="block featured">
+<div class="featured__container block__inside">
+<article class="featured__article">
+<div class="featured__info">
+<h6 class="featured__info__category">
+<a class='featured__link' href='https://petri.com/category/exchange/exchange-online'>Exchange Online</a>, <a class='featured__link' href='https://petri.com/category/office'>Office</a>, and <a class='featured__link' href='https://petri.com/category/office/office-365'>Office 365</a> </h6>
+<h2 class="featured__info__title title"><a class="featured__link" href="https://petri.com/real-size-exchange-online-mailboxes">What’s the Real Size of Exchange Online Mailboxes?</a></h2>
+<p class="featured__info__text text">Office 365 Substrate Makes Exchange Online Mailboxes Bigger Exchange Online assigns 100 GB mailbox quotas to Office 365 accounts with E3 and E5 enterprise plans. It therefore follows that the maximum size of an Exchange Online mailbox..</p>
+<p class="featured__info__action action" style="display:none;">Next <i class="far fa-chevron-right"></i></p>
+<div class="featured__image bg-red" style="background-image: url(https://petri.com/wp-content/uploads/sites/3/2014/09/add-office-365-email-disclaimer.png);"></div>
+</div>
+</article>
+</div>
+</section>
+</div>
+<div class="swiper-pagination"></div>
+</div>
+</div>
+</div>
+<div class="content-block post-archive">
+<div class="post-archive__content">
+<div class="post-archive__content__row">
+<div class="archives -main-archives">
+<article class="archives__article">
+<a class="archives__link archives__article__image" href="https://petri.com/mjfchat-why-it-pros-should-love-the-power-platform">
+<img src="https://petri.com/wp-content/uploads/sites/3/2020/10/shaneyoungnew.jpg" />
+<div class="bar bg-violet"></div>
+</a>
+<div class="archives__article__info">
+<p class="archives__article__meta--top"><a href="https://petri.com/type/interview" class="archives__link">Interview</a> | Intermediate</p>
+<h5 class="archives__article__title"><a class="archives__link" href="https://petri.com/mjfchat-why-it-pros-should-love-the-power-platform">MJFChat: Why IT Pros Should Love the Power Platform</a></h5>
+<p class="archives__article__meta--bottom"><a class="archives__link" href="https://petri.com/author/mary-jo">Mary Jo Foley</a> | Oct 19, 2020</p>
+ <p class="archives__article__desc">&nbsp; We’re doing a twice-monthly interview show on Petri.com that is dedicated to covering topics of interest to..</p>
+</div>
+</article>
+<article class="archives__article">
+<a class="archives__link archives__article__image" href="https://petri.com/microsoft-brings-integrated-siem-and-xdr-tools-with-defender-and-azure-sentinel">
+<img src="https://petri.com/wp-content/uploads/sites/3/2016/08/Microsoft-Azure-cloud-hero-1280x720.png" />
+<div class="bar bg-blue"></div>
+</a>
+<div class="archives__article__info">
+<p class="archives__article__meta--top"><a href="https://petri.com/type/news" class="archives__link">News</a> | Intermediate</p>
+<h5 class="archives__article__title"><a class="archives__link" href="https://petri.com/microsoft-brings-integrated-siem-and-xdr-tools-with-defender-and-azure-sentinel">Microsoft Brings Integrated SIEM and XDR Tools to Defender and Azure Sentinel</a></h5>
+<p class="archives__article__meta--bottom"><a class="archives__link" href="https://petri.com/author/russell-smith">Russell Smith</a> | Oct 19, 2020</p>
+<p class="archives__article__desc">Microsoft believes that SOC teams can benefit from using deeply integrated SIEM and XDR solutions. At its Ignite..</p>
+</div>
+</article>
+<div class="ad">
+
+<div id='div-gpt-ad-1588977543207-0'>
+<script>
+                    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1588977543207-0'); });
+                  </script>
+</div> </div>
+<article class="archives__article">
+<a class="archives__link archives__article__image" href="https://petri.com/new-crucial-audit-events-added-office-365">
+<img src="https://petri.com/wp-content/uploads/sites/3/2017/12/Office365HeroWithTeams-1280x720.jpg" />
+<div class="bar bg-red"></div>
+</a>
+<div class="archives__article__info">
+<p class="archives__article__meta--top"><a href="https://petri.com/type/how-to" class="archives__link">How To</a> | Intermediate</p>
+<h5 class="archives__article__title"><a class="archives__link" href="https://petri.com/new-crucial-audit-events-added-office-365">New Crucial Audit Events Added to Office 365</a></h5>
+<p class="archives__article__meta--bottom"><a class="archives__link" href="https://petri.com/author/tony-redmond">Tony Redmond</a> | Oct 19, 2020</p>
+<p class="archives__article__desc">Helping Investigators Understand What Happened In March, Microsoft eventually released the MailItemsAccessed “crucial audit event” for accounts holding..</p>
+</div>
+</article>
+<article class="archives__article">
+<a class="archives__link archives__article__image" href="https://petri.com/paul-thurrotts-short-takes-october-16">
+<img src="https://petri.com/wp-content/uploads/sites/3/2020/10/fall-in-lower-macungie.jpg" />
+<div class="bar bg-red"></div>
+</a>
+<div class="archives__article__info">
+<p class="archives__article__meta--top"><a href="https://petri.com/type/overview" class="archives__link">Overview</a> | Intermediate</p>
+<h5 class="archives__article__title"><a class="archives__link" href="https://petri.com/paul-thurrotts-short-takes-october-16">Paul Thurrott's Short Takes: October 16</a></h5>
+<p class="archives__article__meta--bottom"><a class="archives__link" href="https://petri.com/author/paul-thurrott">Paul Thurrott</a> | Oct 16, 2020</p>
+<p class="archives__article__desc">Because it’s the Ides of October, this edition of Short Takes looks at mounting antitrust scrutiny of Big..</p>
+</div>
+</article>
+<div class="ad">
+
+<div id='div-gpt-ad-1522428278339-7'>
+<script>
+                    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1522428278339-7'); });
+                    </script>
+ </div> </div>
+<article class="archives__article">
+<a class="archives__link archives__article__image" href="https://petri.com/azure-ad-administrative-units">
+<img src="https://petri.com/wp-content/uploads/sites/3/2020/10/AU-Admin-Units-Users.jpg" />
+<div class="bar bg-red"></div>
+</a>
+<div class="archives__article__info">
+<p class="archives__article__meta--top"><a href="https://petri.com/type/how-to" class="archives__link">How To</a> | Advanced</p>
+<h5 class="archives__article__title"><a class="archives__link" href="https://petri.com/azure-ad-administrative-units">Working with Azure AD Administrative Units</a></h5>
+<p class="archives__article__meta--bottom"><a class="archives__link" href="https://petri.com/author/tony-redmond">Tony Redmond</a> | Oct 15, 2020</p>
+<p class="archives__article__desc">Logical Division of Azure Active Directory Management Since its launch in 1999, Active Directory has used Organizational Units..</p>
+</div>
+</article>
+<article class="archives__article">
+<a class="archives__link archives__article__image" href="https://petri.com/how-to-enable-advanced-teams-audio-features-including-hard-mute">
+<img src="https://petri.com/wp-content/uploads/sites/3/2018/06/Teams-Cover-Hero-1280x721.jpg" />
+<div class="bar bg-violet"></div>
+</a>
+<div class="archives__article__info">
+<p class="archives__article__meta--top"><a href="https://petri.com/type/how-to" class="archives__link">How To</a> | Intermediate</p>
+<h5 class="archives__article__title"><a class="archives__link" href="https://petri.com/how-to-enable-advanced-teams-audio-features-including-hard-mute">How To Enable Advanced Teams Audio Features Including Hard Mute</a></h5>
+<p class="archives__article__meta--bottom"><a class="archives__link" href="https://petri.com/author/sgoodman">Steve Goodman</a> | Oct 14, 2020</p>
+<p class="archives__article__desc">New functionality designed to provide better control for meeting organizers has rolled out to Microsoft Teams. If you..</p>
+</div>
+</article>
+<article class="archives__article">
+<a class="archives__link archives__article__image" href="https://petri.com/how-to-limit-onedrive-upload-bandwidth">
+<img src="https://petri.com/wp-content/uploads/sites/3/2015/12/onedrive3.jpg" />
+<div class="bar bg-blue"></div>
+</a>
+<div class="archives__article__info">
+<p class="archives__article__meta--top"><a href="https://petri.com/type/how-to" class="archives__link">How To</a> | Intermediate</p>
+<h5 class="archives__article__title"><a class="archives__link" href="https://petri.com/how-to-limit-onedrive-upload-bandwidth">How to Limit OneDrive Upload Bandwidth</a></h5>
+<p class="archives__article__meta--bottom"><a class="archives__link" href="https://petri.com/author/russell-smith">Russell Smith</a> | Oct 14, 2020</p>
+<p class="archives__article__desc">Recently I was asked to help solve a problem with intermittent Internet slowdowns on a Windows 10 device...</p>
+</div>
+</article>
+<article class="archives__article">
+<a class="archives__link archives__article__image" href="https://petri.com/office-2010-support-ends-today">
+<img src="https://petri.com/wp-content/uploads/sites/3/2016/04/Office-365-Hero-1280x721.jpg" />
+<div class="bar bg-red"></div>
+</a>
+<div class="archives__article__info">
+<p class="archives__article__meta--top">Article | Intermediate</p>
+<h5 class="archives__article__title"><a class="archives__link" href="https://petri.com/office-2010-support-ends-today">Office 2010 Support Ends Today</a></h5>
+<p class="archives__article__meta--bottom"><a class="archives__link" href="https://petri.com/author/brad-sams">Brad Sams</a> | Oct 13, 2020</p>
+<p class="archives__article__desc">If you are still running Office 2010, you need to seriously consider upgrading your apps immediately. Today is..</p>
+</div>
+</article>
+<article class="archives__article">
+<a class="archives__link archives__article__image" href="https://petri.com/windows-10-oobe-updates-endpoint-philosophy">
+<img src="https://petri.com/wp-content/uploads/sites/3/2020/10/PremiereElementsEditor_2020-10-13_10-36-21-1280x720.jpg" />
+<div class="bar bg-violet"></div>
+</a>
+<div class="archives__article__info">
+<p class="archives__article__meta--top"><a href="https://petri.com/type/opinion" class="archives__link">Opinion</a> | Intermediate</p>
+<h5 class="archives__article__title"><a class="archives__link" href="https://petri.com/windows-10-oobe-updates-endpoint-philosophy">Windows 10 OOBE Updates, Endpoint Philosophy</a></h5>
+<p class="archives__article__meta--bottom"><a class="archives__link" href="https://petri.com/author/brad-sams">Brad Sams</a> | Oct 13, 2020</p>
+<p class="archives__article__desc">On this episode of Enterprise Dish, Windows 10 has a couple of updates to the OOBE, Endpoint security..</p>
+</div>
+</article>
+<nav class="pagination">
+<div class="pagination__main">
+Page <span aria-current="page" class="page-numbers current">1</span> of <a class="page-numbers" href="https://petri.com/page/806">806</a> </div>
+<div class="pagination__button next">
+<a class="next page-numbers" href="https://petri.com/page/2">Next</a> </div>
+</nav>
+</div>
+<div class="post-archive__content__sidebar -desktop-only">
+<div class="sidebar">
+<div class="newsletter -sidebar">
+<div class="newsletter__header"><h3 class="newsletter__title"><span class="supertitle">Subscribe to Petri Newsletters</span>Office 365 Insider</h3></div>
+<div class="newsletter__content " data-hsPortalID="2512652" data-hsFormID="9171b650-a314-42d8-911d-df9b39ee0fb5" data-hsPropertyName="subs_o365ins">
+<div class="newsletter__form">
+<p class="newsletter__desc"><div>Our Petri Office 365 Insider is dedicated to sharing detailed knowledge from top Office 365 experts. Delivered once a month to your inbox.</div></p>
+<div class="newsletter__form__buttons">
+<div class="newsletter__input--container" style="">
+<input class="newsletter__input" placeholder="Email" type="email" />
+</div>
+<input type="submit" value="Subscribe Now" class="button newsletter__button -submit" />
+</div>
+<div class="newsletter__all-link">
+<a href="/manage-subscriptions" target="_blank">All Newsletters <i class="far fa-chevron-right"></i></a>
+</div>
+<div class="newsletter__consent becomes-active">
+<p class="text widget-text">Petri.com may use your contact information to provide updates, offers and resources that may be of interest to you. You can unsubscribe at any time. To learn more about how we manage your data, you can read our <a href="https://www.bwwmediagroup.com/terms-and-conditions/" rel=" noopener" target="_blank">Privacy Policy</a> and <a href="https://www.bwwmediagroup.com/terms-and-conditions/" rel=" noopener" target="_blank">Terms of Service</a>.</p>
+</div>
+</div>
+<div class="newsletter__messages -default">
+<div class="newsletter__messages__inner -row">
+<p class="text"><span>!</span>Already a Petri.com member? <a href="/login">Login here</a> for 1-click registration.</p>
+</div>
+</div>
+</div>
+</div><div class="widget -industry-updates">
+<div class="widget__top">
+<h4 class="widget__title -large">Petri Community Updates</h4>
+</div>
+<article class="widget__article -industry-update">
+<img class="widget__article__logo" src="https://petri.com/wp-content/uploads/sites/3/2018/11/avepoint_color.png" />
+<div class="widget__article__info">
+<p class="widget__article__meta--top">Oct 19, 2020</p>
+<a class="widget__article__link" target="_blank" href="https://www.avepoint.com/blog/backup/office-365-backup-debate/"><p class="widget__article__title">The Great Office 365 Backup Debate</p></a>
+</div>
+</article>
+<article class="widget__article -industry-update">
+<img class="widget__article__logo" src="https://petri.com/wp-content/uploads/sites/3/2018/11/quadrotech_color.png" />
+<div class="widget__article__info">
+<p class="widget__article__meta--top">Oct 16, 2020</p>
+<a class="widget__article__link" target="_blank" href="https://www.quadrotech-it.com/blog/tracking-microsoft-office-365-adoption-usage/"><p class="widget__article__title">Pro Tips: Tracking Your Microsoft Office 365 Adoption and Usage</p></a>
+</div>
+</article>
+<article class="widget__article -industry-update">
+<img class="widget__article__logo" src="https://petri.com/wp-content/uploads/sites/3/2020/06/ms-logo.png" />
+<div class="widget__article__info">
+<p class="widget__article__meta--top">Oct 13, 2020</p>
+<a class="widget__article__link" target="_blank" href="https://www.microsoft.com/en-us/microsoft-365/blog/2020/10/13/support-for-office-2010-and-office-2016-for-mac-has-ended-heres-what-you-need-to-know/"><p class="widget__article__title">Support for Office 2010—and Office 2016 for Mac—has ended: Here’s what you need to know</p></a>
+</div>
+</article>
+</div> <div class="widget_content ad">
+
+<div id='div-gpt-ad-1522428278339-2'>
+<script>
+                googletag.cmd.push(function() { googletag.display('div-gpt-ad-1522428278339-2'); });
+                </script>
+</div> </div>
+</div>
+</div>
+</div>
+</div>
+<div class="content-block category -podcast-archives">
+<div class="category__content">
+<div class="category__header">
+<h4 class="category__header__title">Latest Petri Podcasts</h4>
+<a class="category__header__link" href="/category/podcasts">See All Podcasts <i class="fas fa-angle-right"></i></a>
+</div>
+<div class="archives">
+<article class="archives__article -huge">
+<a class="archives__link" href="https://petri.com/mjfchat-why-it-pros-should-love-the-power-platform"><img src="https://petri.com/wp-content/uploads/sites/3/2020/10/shaneyoungnew.jpg" /></a>
+<div class="archives__article__right">
+<h5 class="archives__article__title"><a class="archives__link" href="https://petri.com/mjfchat-why-it-pros-should-love-the-power-platform">MJFChat: Why IT Pros Should Love the Power Platform</a></h5>
+<p class="archives__article__meta">Oct 19, 2020</p>
+<p class="archives__article__excerpt">&nbsp; We’re doing a twice-monthly interview show on Petri.com that is dedicated to covering topics of interest to our tech-professional audience. We have branded this show “MJFChat.” In my role as Petri’s Community Magnate, I will be interviewing a variety of IT-savvy technology folks. Some of these will be Petri contributors; some will be tech-company [...]</p>
+<div class="archives__article__buttons">
+<a href="https://petri.com/mjfchat-why-it-pros-should-love-the-power-platform"><button class="button">See this Episode</button></a>
+</div>
+</div>
+</article>
+<section class="archives__articles -podcasts-small">
+<article class="archives__article -podcast">
+<a class="archives__link" href="https://petri.com/windows-10-oobe-updates-endpoint-philosophy"><img src="https://petri.com/wp-content/uploads/sites/3/2020/10/PremiereElementsEditor_2020-10-13_10-36-21-1280x720.jpg" /></a>
+<div class="row -nowrap">
+<h5 class="archives__article__title"><a class="archives__link" href="https://petri.com/windows-10-oobe-updates-endpoint-philosophy">Windows 10 OOBE Updates, Endpoint Philosophy</a></h5>
+<div class="archives__article__play"><a class="archives__link" href="https://petri.com/windows-10-oobe-updates-endpoint-philosophy">
+<i class="fas fa-play-circle"></i>
+</a></div>
+</div>
+<p class="archives__article__meta">Oct 13, 2020</p>
+</article>
+<article class="archives__article -podcast">
+<a class="archives__link" href="https://petri.com/highlighting-teams-news-from-ignite"><img src="https://petri.com/wp-content/uploads/sites/3/2020/10/PremiereElementsEditor_2020-10-02_10-59-00-1280x720.jpg" /></a>
+<div class="row -nowrap">
+<h5 class="archives__article__title"><a class="archives__link" href="https://petri.com/highlighting-teams-news-from-ignite">Highlighting Teams News From Ignite</a></h5>
+<div class="archives__article__play"><a class="archives__link" href="https://petri.com/highlighting-teams-news-from-ignite">
+<i class="fas fa-play-circle"></i>
+</a></div>
+</div>
+<p class="archives__article__meta">Oct 02, 2020</p>
+</article>
+<article class="archives__article -podcast">
+<a class="archives__link" href="https://petri.com/mjfchat-how-to-build-your-personal-brand"><img src="https://petri.com/wp-content/uploads/sites/3/2020/09/16_9-New-Episode-2-1280x800.png" /></a>
+<div class="row -nowrap">
+<h5 class="archives__article__title"><a class="archives__link" href="https://petri.com/mjfchat-how-to-build-your-personal-brand">MJFChat: How to Build Your Personal Brand</a></h5>
+<div class="archives__article__play"><a class="archives__link" href="https://petri.com/mjfchat-how-to-build-your-personal-brand">
+<i class="fas fa-play-circle"></i>
+</a></div>
+</div>
+<p class="archives__article__meta">Oct 02, 2020</p>
+</article> </section>
+</div>
+</div>
+</div>
+<div class="post-archive__content">
+<div class="newsletter ">
+<div class="newsletter__header"><h3 class="newsletter__title">Subscribe to Petri Newsletters</h3></div>
+<div class="newsletter__content  -all-newsletters" data-hsPortalID="2512652" data-hsFormID="3b349452-ef84-43d3-8f37-3f90600ce1ee" data-hsPropertyName="">
+<div class="newsletter__form">
+<p class="newsletter__desc">Whether it’s Security or Cloud Computing, we have the know-how for you. Sign up for our newsletters here.</p>
+<div class="newsletter__form__buttons">
+<div class="newsletter__input--container" style="">
+<input class="newsletter__input" placeholder="Email" type="email" />
+</div>
+<input type="submit" value="Subscribe Now" class="button newsletter__button -submit" />
+</div>
+<div class="newsletter__all-link">
+<a href="/manage-subscriptions" target="_blank">All Newsletters <i class="far fa-chevron-right"></i></a>
+</div>
+<div class="newsletter__consent becomes-active">
+<p class="text widget-text">Petri.com may use your contact information to provide updates, offers and resources that may be of interest to you. You can unsubscribe at any time. To learn more about how we manage your data, you can read our <a href="https://www.bwwmediagroup.com/terms-and-conditions/" rel=" noopener" target="_blank">Privacy Policy</a> and <a href="https://www.bwwmediagroup.com/terms-and-conditions/" rel=" noopener" target="_blank">Terms of Service</a>.</p>
+</div>
+<input type="hidden" class="subscription-item" data-hsPropertyName="subs_disrecovins" />
+<input type="hidden" class="subscription-item" data-hsPropertyName="subs_hybrdcldins" />
+<input type="hidden" class="subscription-item" data-hsPropertyName="subs_o365ins" />
+<input type="hidden" class="subscription-item" data-hsPropertyName="subs_secins" />
+<input type="hidden" class="subscription-item" data-hsPropertyName="subs_win10ins" />
+<input type="hidden" class="subscription-item" data-hsPropertyName="subs_techtues" />
+<input type="hidden" class="subscription-item" data-hsPropertyName="subs_twiit" />
+ <input type="hidden" class="subscription-item" data-hsPropertyName="subs_toolsutils" />
+<input type="hidden" class="subscription-item" data-hsPropertyName="subs_wbnrs" />
+</div>
+<div class="newsletter__messages -default">
+<div class="newsletter__messages__inner -row">
+<p class="text"><span>!</span>Already a Petri.com member? <a href="/login">Login here</a> for 1-click registration.</p>
+</div>
+</div>
+</div>
+</div> <div class="post-archive__content__sidebar -mobile-only">
+<div class="sidebar">
+<div class="newsletter -sidebar">
+<div class="newsletter__header"><h3 class="newsletter__title"><span class="supertitle">Subscribe to Petri Newsletters</span>Office 365 Insider</h3></div>
+<div class="newsletter__content " data-hsPortalID="2512652" data-hsFormID="9171b650-a314-42d8-911d-df9b39ee0fb5" data-hsPropertyName="subs_o365ins">
+<div class="newsletter__form">
+<p class="newsletter__desc"><div>Our Petri Office 365 Insider is dedicated to sharing detailed knowledge from top Office 365 experts. Delivered once a month to your inbox.</div></p>
+<div class="newsletter__form__buttons">
+<div class="newsletter__input--container" style="">
+<input class="newsletter__input" placeholder="Email" type="email" />
+</div>
+<input type="submit" value="Subscribe Now" class="button newsletter__button -submit" />
+</div>
+<div class="newsletter__all-link">
+<a href="/manage-subscriptions" target="_blank">All Newsletters <i class="far fa-chevron-right"></i></a>
+</div>
+<div class="newsletter__consent becomes-active">
+<p class="text widget-text">Petri.com may use your contact information to provide updates, offers and resources that may be of interest to you. You can unsubscribe at any time. To learn more about how we manage your data, you can read our <a href="https://www.bwwmediagroup.com/terms-and-conditions/" rel=" noopener" target="_blank">Privacy Policy</a> and <a href="https://www.bwwmediagroup.com/terms-and-conditions/" rel=" noopener" target="_blank">Terms of Service</a>.</p>
+</div>
+</div>
+<div class="newsletter__messages -default">
+<div class="newsletter__messages__inner -row">
+<p class="text"><span>!</span>Already a Petri.com member? <a href="/login">Login here</a> for 1-click registration.</p>
+</div>
+</div>
+</div>
+</div><div class="widget -industry-updates">
+<div class="widget__top">
+<h4 class="widget__title -large">Petri Community Updates</h4>
+</div>
+<article class="widget__article -industry-update">
+<img class="widget__article__logo" src="https://petri.com/wp-content/uploads/sites/3/2018/11/avepoint_color.png" />
+<div class="widget__article__info">
+<p class="widget__article__meta--top">Oct 19, 2020</p>
+<a class="widget__article__link" target="_blank" href="https://www.avepoint.com/blog/backup/office-365-backup-debate/"><p class="widget__article__title">The Great Office 365 Backup Debate</p></a>
+</div>
+</article>
+<article class="widget__article -industry-update">
+<img class="widget__article__logo" src="https://petri.com/wp-content/uploads/sites/3/2018/11/quadrotech_color.png" />
+<div class="widget__article__info">
+<p class="widget__article__meta--top">Oct 16, 2020</p>
+<a class="widget__article__link" target="_blank" href="https://www.quadrotech-it.com/blog/tracking-microsoft-office-365-adoption-usage/"><p class="widget__article__title">Pro Tips: Tracking Your Microsoft Office 365 Adoption and Usage</p></a>
+</div>
+</article>
+<article class="widget__article -industry-update">
+<img class="widget__article__logo" src="https://petri.com/wp-content/uploads/sites/3/2020/06/ms-logo.png" />
+<div class="widget__article__info">
+<p class="widget__article__meta--top">Oct 13, 2020</p>
+<a class="widget__article__link" target="_blank" href="https://www.microsoft.com/en-us/microsoft-365/blog/2020/10/13/support-for-office-2010-and-office-2016-for-mac-has-ended-heres-what-you-need-to-know/"><p class="widget__article__title">Support for Office 2010—and Office 2016 for Mac—has ended: Here’s what you need to know</p></a>
+</div>
+</article>
+</div> <div class="widget_content ad">
+
+<div id='div-gpt-ad-1522428278339-2'>
+<script>
+                googletag.cmd.push(function() { googletag.display('div-gpt-ad-1522428278339-2'); });
+                </script>
+</div> </div>
+</div>
+</div>
+</div>
+</div>
+<div class="site-footer">
+<div class="site-footer_inner -main ">
+<a href="https://petri.com/" class="header_logo logo custom-logo-link" rel="home"><img src="https://petri.com/wp-content/uploads/sites/3/2019/10/Asset-2@2x.png" class="logo_image custom-logo" alt="Petri"></a> <div class="site-footer_content">
+<div class="site-footer_menus">
+<div class="site-footer_list active">
+<div class="list-header">Reach Out</div>
+<ul>
+<li class='menu-item menu-item-type-custom menu-item-object-custom menu-list_item'><a class='menu-list_link link' href='http://bwwmediagroup.com/contact-us'><span>Contact Us</span></a></li><li class='menu-item menu-item-type-custom menu-item-object-custom menu-list_item'><a class='menu-list_link link' href="/cdn-cgi/l/email-protection#2149444d4d4e614356564c4445484046534e54510f424e4c"><span>Advertise With Us</span></a></li><li class='menu-item menu-item-type-custom menu-item-object-custom menu-list_item'><a class='menu-list_link link' href='/about'><span>About Us</span></a></li><li class='menu-item menu-item-type-custom menu-item-object-custom menu-list_item'><a class='menu-list_link link' href='https://cdn2.hubspot.net/hubfs/2512652/BWWMediaGroup_2019_MediaKit_BWWSite.pdf'><span>Media Kit</span></a></li> </ul>
+</div>
+<div class="site-footer_list">
+<div class="list-header">Learn More</div>
+<ul>
+<li class='menu-item menu-item-type-custom menu-item-object-custom menu-list_item'><a class='menu-list_link link' href='/forums'><span>Forums</span></a></li><li class='menu-item menu-item-type-custom menu-item-object-custom menu-list_item'><a class='menu-list_link link' href='/category/podcasts'><span>Podcasts</span></a></li><li class='menu-item menu-item-type-custom menu-item-object-custom menu-list_item'><a class='menu-list_link link' href='/webinars'><span>Webinars</span></a></li><li class='menu-item menu-item-type-custom menu-item-object-custom menu-list_item'><a class='menu-list_link link' href='/manage-subscriptions'><span>Newsletters</span></a></li> </ul>
+</div>
+<div class="site-footer_list ">
+<div class="list-header">Sitemap</div>
+<ul class="sitemap">
+<li class='menu-item menu-item-type-taxonomy menu-item-object-category menu-list_item'><a class='menu-list_link link' href='https://petri.com/category/windows-client-os/windows-10'><span>Windows 10</span></a></li><li class='menu-item menu-item-type-taxonomy menu-item-object-category menu-list_item'><a class='menu-list_link link' href='https://petri.com/category/cloud-computing'><span>Cloud Computing</span></a></li><li class='menu-item menu-item-type-taxonomy menu-item-object-category menu-list_item'><a class='menu-list_link link' href='https://petri.com/category/office/office-365'><span>Office 365</span></a></li><li class='menu-item menu-item-type-taxonomy menu-item-object-category menu-list_item'><a class='menu-list_link link' href='https://petri.com/category/microsoft-365'><span>Microsoft 365</span></a></li><li class='menu-item menu-item-type-taxonomy menu-item-object-category menu-list_item'><a class='menu-list_link link' href='https://petri.com/category/backup-and-storage'><span>Backup & Storage</span></a></li><li class='menu-item menu-item-type-taxonomy menu-item-object-category menu-list_item'><a class='menu-list_link link' href='https://petri.com/category/sharepoint'><span>SharePoint</span></a></li><li class='menu-item menu-item-type-taxonomy menu-item-object-category menu-list_item'><a class='menu-list_link link' href='https://petri.com/category/security'><span>Security</span></a></li><li class='menu-item menu-item-type-taxonomy menu-item-object-category menu-list_item'><a class='menu-list_link link' href='https://petri.com/category/powershell' aria-describedby='menu-list_description_5f8e70721876e'><span>PowerShell</span></a></li><li class='menu-item menu-item-type-taxonomy menu-item-object-category menu-list_item'><a class='menu-list_link link' href='https://petri.com/category/windows-server'><span>Windows Server</span></a></li> </ul>
+</div>
+</div>
+<div class="site-footer_sign-up sign-up">
+<h4 class="sign-up_title">Join the Conversation</h4>
+<p class="sign-up_copy">Create a free account today to participate in forum conversations, comment on posts and more.</p>
+<div class="sign-up_form">
+<div class="sign-up_submit button">Join</div>
+</div>
+</div>
+</div>
+</div>
+<div class="site-footer_inner -addendum">
+<div class="social">
+<span class="callouts-header">Follow us</span><ul class='menu-list -tabs -small'><li class='menu-item menu-item-type-custom menu-item-object-custom menu-list_item'><a class='menu-list_link link' href='https://www.facebook.com/itpetrikb' target='_blank'><span><i class='fab fa-facebook'></i></span></a></li><li class='menu-item menu-item-type-custom menu-item-object-custom menu-list_item'><a class='menu-list_link link' href='https://twitter.com/petrifeed' target='_blank'><span><i class='fab fa-twitter'></i></span></a></li><li class='menu-item menu-item-type-custom menu-item-object-custom menu-list_item'><a class='menu-list_link link' href='https://www.linkedin.com/groups/95390/' target='_blank'><span><i class='fab fa-linkedin'></i></span></a></li><li class='menu-item menu-item-type-custom menu-item-object-custom menu-list_item'><a class='menu-list_link link' href='/feed' target='_blank'><span><i class='fas fa-rss'></i></span></a></li></ul> </div>
+<p class="site-footer_end-text">&copy; 2020 BWW Media Group <span>Terms and Conditions of Use | Privacy Policy</span></p>
+</div>
+</div>
+<div class="gdpr-cookie-banner">
+<h4 class="gdpr-cookie-banner__title title">We use cookies to improve your browsing experience.</h4>
+<p class="gdpr-cookie-banner__text text">Find out more about our cookie policy <a href="http://bwwmediagroup.com/terms-and-conditions/" target="_blank">here</a>.</p>
+<div class="gdpr-cookie-banner__close close"></div>
+</div>
+</div>
+
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="text/javascript" id="hs-script-loader" async defer src="//js.hs-scripts.com/2512652.js"></script>
+
+<script type="text/javascript">
+		/* MonsterInsights Scroll Tracking */
+			if ( typeof(jQuery) !== 'undefined' ) {
+				jQuery( document ).ready(function(){
+					function monsterinsights_scroll_tracking_load() {
+						if ( typeof(__gaTracker) !== 'undefined' && __gaTracker && __gaTracker.hasOwnProperty( "loaded" ) && __gaTracker.loaded == true ) {
+							(function(factory) {
+								factory(jQuery);
+							}(function($) {
+
+								/* Scroll Depth */
+								"use strict";
+								var defaults = {
+									percentage: true
+								};
+
+								var $window = $(window),
+									cache = [],
+									scrollEventBound = false,
+									lastPixelDepth = 0;
+
+								/*
+								 * Plugin
+								 */
+
+								$.scrollDepth = function(options) {
+
+									var startTime = +new Date();
+
+									options = $.extend({}, defaults, options);
+
+									/*
+									 * Functions
+									 */
+
+									function sendEvent(action, label, scrollDistance, timing) {
+
+										var fieldsArray = {
+											hitType       : 'event',
+											eventCategory : 'Scroll Depth',
+											eventAction   : action,
+											eventLabel    : label,
+											eventValue    : 1,
+											nonInteraction: 1
+										};
+
+										if ( 'undefined' === typeof MonsterInsightsObject || 'undefined' === typeof MonsterInsightsObject.sendEvent ) {
+											return;
+										}
+
+										MonsterInsightsObject.sendEvent( fieldsArray );
+										if (arguments.length > 3) {
+											fieldsArray = {
+												hitType        : 'timing',
+												timingCategory : 'Scroll Depth',
+												timingVar      : action,
+												timingValue    : timing,
+												timingLabel    : label,
+												nonInteraction: 1
+											};
+											MonsterInsightsObject.sendEvent( fieldsArray );
+										}
+									}
+
+									function calculateMarks(docHeight) {
+										return {
+											'25%' : parseInt(docHeight * 0.25, 10),
+											'50%' : parseInt(docHeight * 0.50, 10),
+											'75%' : parseInt(docHeight * 0.75, 10),
+											/* Cushion to trigger 100% event in iOS */
+											'100%': docHeight - 5
+										};
+									}
+
+									function checkMarks(marks, scrollDistance, timing) {
+										/* Check each active mark */
+										$.each(marks, function(key, val) {
+											if ( $.inArray(key, cache) === -1 && scrollDistance >= val ) {
+												sendEvent('Percentage', key, scrollDistance, timing);
+												cache.push(key);
+											}
+										});
+									}
+
+									function rounded(scrollDistance) {
+										/* Returns String */
+										return (Math.floor(scrollDistance/250) * 250).toString();
+									}
+
+									function init() {
+										bindScrollDepth();
+									}
+
+									/*
+									 * Public Methods
+									 */
+
+									/* Reset Scroll Depth with the originally initialized options */
+									$.scrollDepth.reset = function() {
+										cache = [];
+										lastPixelDepth = 0;
+										$window.off('scroll.scrollDepth');
+										bindScrollDepth();
+									};
+
+									/* Add DOM elements to be tracked */
+									$.scrollDepth.addElements = function(elems) {
+
+										if (typeof elems == "undefined" || !$.isArray(elems)) {
+											return;
+										}
+
+										$.merge(options.elements, elems);
+
+										/* If scroll event has been unbound from window, rebind */
+										if (!scrollEventBound) {
+											bindScrollDepth();
+										}
+
+									};
+
+									/* Remove DOM elements currently tracked */
+									$.scrollDepth.removeElements = function(elems) {
+
+										if (typeof elems == "undefined" || !$.isArray(elems)) {
+											return;
+										}
+
+										$.each(elems, function(index, elem) {
+
+											var inElementsArray = $.inArray(elem, options.elements);
+											var inCacheArray = $.inArray(elem, cache);
+
+											if (inElementsArray != -1) {
+												options.elements.splice(inElementsArray, 1);
+											}
+
+											if (inCacheArray != -1) {
+												cache.splice(inCacheArray, 1);
+											}
+
+										});
+
+									};
+
+									/*
+									 * Throttle function borrowed from:
+									 * Underscore.js 1.5.2
+									 * http://underscorejs.org
+									 * (c) 2009-2013 Jeremy Ashkenas, DocumentCloud and Investigative Reporters & Editors
+									 * Underscore may be freely distributed under the MIT license.
+									 */
+
+									function throttle(func, wait) {
+										var context, args, result;
+										var timeout = null;
+										var previous = 0;
+										var later = function() {
+											previous = new Date;
+											timeout = null;
+											result = func.apply(context, args);
+										};
+										return function() {
+											var now = new Date;
+											if (!previous) previous = now;
+											var remaining = wait - (now - previous);
+											context = this;
+											args = arguments;
+											if (remaining <= 0) {
+												clearTimeout(timeout);
+												timeout = null;
+												previous = now;
+												result = func.apply(context, args);
+											} else if (!timeout) {
+												timeout = setTimeout(later, remaining);
+											}
+											return result;
+										};
+									}
+
+									/*
+									 * Scroll Event
+									 */
+
+									function bindScrollDepth() {
+
+										scrollEventBound = true;
+
+										$window.on('scroll.scrollDepth', throttle(function() {
+											/*
+											 * We calculate document and window height on each scroll event to
+											 * account for dynamic DOM changes.
+											 */
+
+											var docHeight = $(document).height(),
+												winHeight = window.innerHeight ? window.innerHeight : $window.height(),
+												scrollDistance = $window.scrollTop() + winHeight,
+
+												/* Recalculate percentage marks */
+												marks = calculateMarks(docHeight),
+
+												/* Timing */
+												timing = +new Date - startTime;
+
+											checkMarks(marks, scrollDistance, timing);
+										}, 500));
+
+									}
+
+									init();
+								};
+
+								/* UMD export */
+								return $.scrollDepth;
+
+							}));
+
+							jQuery.scrollDepth();
+						} else {
+							setTimeout(monsterinsights_scroll_tracking_load, 200);
+						}
+					}
+					monsterinsights_scroll_tracking_load();
+				});
+			}
+		/* End MonsterInsights Scroll Tracking */
+		
+</script><script defer='defer' type='text/javascript' src='https://petri.com/wp-content/themes/monstro/assets/scripts/modern.a76fb016.js'></script>
+<script defer='defer' type='text/javascript'>
+https://petri.com/wp-content/themes/monstro/assets/scripts/critical.5d65e61c.js
+
+        if ('serviceWorker' in navigator) {
+            window.addEventListener('load', () => {
+                navigator.serviceWorker.register('https://petri.com/wp-content/themes/monstro/assets/scripts/service-worker.js', { scope: '/' });
+            });
+        }
+    
+https://petri.com/wp-content/themes/monstro/assets/scripts/critical.5d65e61c.js
+
+        if ('serviceWorker' in navigator) {
+            window.addEventListener('load', () => {
+                navigator.serviceWorker.register('https://petri.com/wp-content/themes/monstro/assets/scripts/service-worker.js', { scope: '/' });
+            });
+        }
+    
+</script>
+<script type="text/javascript" src="https://petri.com/wp-content/themes/monstro/assets/scripts/fontawesome.394ed8af.js" data-search-pseudo-elements></script><script defer='defer' type='text/javascript' src='https://petri.com/wp-includes/js/imagesloaded.min.js'></script>
+<script defer='defer' type='text/javascript' src='https://petri.com/wp-includes/js/masonry.min.js'></script>
+<script defer='defer' type='text/javascript' src='https://petri.com/wp-includes/js/jquery/jquery.masonry.min.js'></script>
+<script defer='defer' type='text/javascript' src='https://petri.com/wp-content/plugins/fastgallery/js/frontend.js'></script>
+<script defer='defer' type='text/javascript' src='https://petri.com/wp-content/plugins/fastgallery/js/photobox.js'></script>
+<script defer='defer' type='text/javascript' src='https://petri.com/wp-content/plugins/fastgallery/js/jquery.prettyPhoto.js'></script>
+<script defer='defer' type='text/javascript' src='https://petri.com/wp-content/plugins/fastgallery/js/jquery.magnific-popup.js'></script>
+<script defer='defer' type='text/javascript' src='https://petri.com/wp-content/plugins/fastgallery/js/fotorama.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"https:\/\/petri.com\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"},"cached":"1"};
+/* ]]> */
+</script>
+<script defer='defer' type='text/javascript' src='https://petri.com/wp-content/plugins/contact-form-7/includes/js/scripts.js'></script>
+<script defer='defer' type='text/javascript' src='https://petri.com/tmp/js/frontend.js'></script>
